@@ -1,4 +1,4 @@
-git clone git@github.com:CharaROMAndroid/android_device_xiaomi_tanzanite.git device/xiaomi/tanzanite -b yaap-16.2
+git clone git@github.com:DeterminationPeak/android_device_xiaomi_tanzanite.git device/xiaomi/tanzanite -b yaap-16.2
 git clone git@github.com:CharaROMAndroid/android_device_xiaomi_tanzanite-kernel.git device/xiaomi/tanzanite-kernel
 git clone https://codeberg.org/nathannxx/proprietary_vendor_xiaomi_tanzanite.git vendor/xiaomi/tanzanite
 git clone https://git.hlcyn.org/halcyonlv/vendor_mediatek_ims.git vendor/mediatek/ims
